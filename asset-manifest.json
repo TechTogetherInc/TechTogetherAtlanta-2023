@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f674656e.css",
+    "main.js": "/static/js/main.eedab006.js",
+    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
+    "static/media/image6.png": "/static/media/image6.eca0981eeccc5e493b13.png",
+    "static/media/smaller-background.png": "/static/media/smaller-background.f6ea41b40564a9fa146f.png",
+    "static/media/tta-logo.png": "/static/media/tta-logo.e576407f22e4a9b2cb31.png",
+    "static/media/balsamiq-logo.png": "/static/media/balsamiq-logo.3686b2999cec59e7af70.png",
+    "static/media/mlh-badge-2023.svg": "/static/media/mlh-badge-2023.a0204d8bc5576ef227b93dace8d122a8.svg",
+    "static/media/Microsoft-logo.jpg": "/static/media/Microsoft-logo.fe9ced94862dcdca86f0.jpg",
+    "static/media/CapitalOneLogo.png": "/static/media/CapitalOneLogo.9f957785110bec1b35f8.png",
+    "static/media/instagram.svg": "/static/media/instagram.e37a8e32359e11487817c4673e132a5f.svg",
+    "index.html": "/index.html",
+    "static/media/linkedin.svg": "/static/media/linkedin.749a3d5ebe6044c5a23318377bd4b2cc.svg",
+    "static/media/facebook.svg": "/static/media/facebook.e5f58d95eb27f68a0e3f0567b1bf1d12.svg",
+    "main.f674656e.css.map": "/static/css/main.f674656e.css.map",
+    "main.eedab006.js.map": "/static/js/main.eedab006.js.map",
+    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f674656e.css",
+    "static/js/main.eedab006.js"
+  ]
+}
