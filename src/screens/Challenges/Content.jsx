@@ -1,5 +1,3 @@
-import classes from "./Challenges.module.css";
-
 export const mCloudContent = (
   <div>
     <div>
