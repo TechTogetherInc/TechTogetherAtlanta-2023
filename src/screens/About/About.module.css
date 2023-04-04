@@ -1,7 +1,7 @@
 .mainContainer {
     overflow-x: hidden;
     background: linear-gradient(#010234, #0003A3);
-    height: 90vh;
+    min-height: 90vh;
     width: 100%;
     padding-top: 10vh;
 }
@@ -37,4 +37,11 @@
     font-size: 2.8vh;
     color: rgba(255, 255, 255, 100);
     padding: 5px;
+}
+
+@media screen and (max-width: 540px) {
+    .text {
+        font-weight: 200;
+        font-size: 2vh;
+    }
 }

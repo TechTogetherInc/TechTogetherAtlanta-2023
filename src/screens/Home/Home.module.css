@@ -51,6 +51,7 @@
     border-radius: 10px;
     width: 30vw;
     height: 10vw;
+    min-height: 70px;
     box-shadow: 1vw 0.5vw 0.5vw #5c7ca0;
 }
 
@@ -58,7 +59,7 @@
     color: #FD7247;
     font-family: 'Roboto';
     font-weight: 500;
-    font-size: 2vw;
+    font-size: max(2vw, 10px);
 }
 
 .buttonsContainer {
@@ -79,4 +80,26 @@
     padding-top: 10px;
     padding-bottom: 10px;
     font-size: min(20px, 2vw);
+    padding-left: 2px;
+    padding-right: 2px;
+}
+
+@media screen and (max-width: 540px) {
+    .mainContainer {
+        background: linear-gradient(#010231, #00010a);
+    }
+    .imageBackground {
+        background: url(./../../assets/mobile-circus.jpg) no-repeat;
+        height: 100vh;
+        width: 100vw;
+        background-size: 100vw 70vh;
+        margin-top: 20vh;
+    }
+    .bigRect{
+        width: 40vw;
+    }
+    .button {
+        width: 10vw;
+        border-radius: 5px;
+    }
 }
